@@ -1,4 +1,4 @@
-https://brb-mvp.herokuapp.com/
+https://breakoutroombreakdown.herokuapp.com/
 # [Breakout Room Breakdown](https://brb-mvp.herokuapp.com/)
 ### a browser-based booking appointment app for easy scheduling of breakout rooms
 
